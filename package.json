@@ -1,0 +1,17 @@
+{
+    "name": "nodemailer-graph-transport",
+    "version": "0.1.0",
+    "description": "Microsoft® Graph transport module for Nodemailer",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.23.0",
+        "mime-types": "^2.1.35",
+        "underscore": "^1.13.1",
+        "winston": "^3.3.3"
+    },
+    "devDependencies": {}
+}
